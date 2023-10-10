@@ -1,0 +1,9 @@
+#root {
+  max-width: 1000px;
+  max-height: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+}
